@@ -27,7 +27,5 @@ const lizeth = {
         },
         devOps: ["AWS", "Docker🐳"],
         databases: ["mongo", "MySql", "sqlite"],
-
-    },
-    
+    },  
 }
