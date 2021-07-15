@@ -18,7 +18,7 @@
 ```javascript
 const lizeth = {
     pronouns: "She" | "Her",
-    code: ["Javascript", "Python", "Java", "PHP"],
+    code: ["Python", "Java", "Javascript", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "data"],
     technologies: {
         backEnd: {
