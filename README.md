@@ -1,4 +1,4 @@
-### Hi everyone, I´m Lizeth [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://liztgarcia.github.io/)](https://liztgarcia.github.io/portfolio-website-d-Lizeth//) ✌
+### Hi everyone, I´m Lizeth [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://liztgarcia.github.io/)](https://liztgarcia.github.io/portfolio-website-Lizeth//) ✌
 
 ## I´m a Data scientist student and starter developer!
 - 🌱 I´m currently learning everything, specially tech stuff.
