@@ -25,6 +25,5 @@ const lizeth = {
             js: ["Node"],
         },
         devOps: ["AWS", "Docker🐳"],
-        databases: ["mongo", "MySql", "sqlite"],
-    },  
+        databases: ["mongo", "MySql", "sqlite"]  
 }
