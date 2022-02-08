@@ -15,15 +15,4 @@
 
 ### <img src="https://media.giphy.com/media/SBxw43bgIIDIqtH5JC/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const lizeth = {
-    pronouns: "She" | "Her",
-    code: ["Python", "Java", "Javascript", "PHP"],
-    askMeAbout: ["web dev", "tech", "data"],
-    technologies: {
-        backEnd: {
-            js: ["Node"],
-        },
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["mongo", "MySql", "sqlite"]  
-}
+
