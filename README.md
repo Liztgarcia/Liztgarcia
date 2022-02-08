@@ -13,6 +13,6 @@
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> feel free to give me feedback or also a job or both if you want <b>I'll be happy to meet you!</b> 😊</em>
 
 
-### <img src="https://media.giphy.com/media/SBxw43bgIIDIqtH5JC/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/SBxw43bgIIDIqtH5JC/giphy.gif" width="50"> 
 
 
