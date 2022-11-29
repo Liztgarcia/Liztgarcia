@@ -3,7 +3,7 @@
 ## I´m a Data scientist student and starter developer!
 - 🌱 I´m currently learning everything, specially tech stuff.
 - 🤝 I´m looking to collaborate with other cool persons.
-- 🎯 2021 Goals: Get my dream job and contribute to Open Source projects, also make a cool alghoritms.
+- 🎯 2022 Goals: Get my dream job and contribute to Open Source projects, also make a cool alghoritms.
 - 🐈 Fun facts: I´m vegetarian, I´m a cyclist, I love read books, I enjoy poetry and I can´t live without coffee.
 
 ### Connect with me:
